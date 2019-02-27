@@ -187,10 +187,4 @@ if __name__ == '__main__':
 - cnn-text-classification [[code](./examples/cnn_text_classification)]
   - The original [paper](http://arxiv.org/abs/1408.5882) and [github](https://github.com/yoonkim/CNN_sentence)
     
-## Contributing
 
-I always want to replace the `tf.placeholder` with `tf.data.Dataset` but no idea. 
-You can see my trouble at [stackoverflow](https://stackoverflow.com/questions/49355553/how-to-write-a-template-for-most-tensorflow-deep-learning-project?answertab=votes#tab-top).
-If you have a good resolvent, welcome it.
-
-If you use the template to build some model. Welcome it to the examples.
