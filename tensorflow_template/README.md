@@ -1,8 +1,5 @@
 # Tensorflow Template
 
-A deep learning template for tensorflow, of which the idea is from another project [MrGemy95/Tensorflow-Project-Template](https://github.com/MrGemy95/Tensorflow-Project-Template).
-
-There is a new version which using the high-level tf-API - [imhuay/tensorflow_estimator](https://github.com/imhuay/tensorflow_estimator)
 
 ## Table Of Contents
 
